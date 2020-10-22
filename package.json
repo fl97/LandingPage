@@ -1,0 +1,19 @@
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "description": "Simple LandingPage with your local weather and shortcuts to your most recently used pages.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fl97/LandingPage.git"
+  },
+  "author": "Florian Lutz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fl97/LandingPage/issues"
+  },
+  "homepage": "https://github.com/fl97/LandingPage#readme"
+}
